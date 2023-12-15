@@ -1,0 +1,56 @@
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto Final Cliente Servidor 2023.csproj.AssemblyReference.cache
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto Final Cliente Servidor 2023.csproj.SuggestedBindingRedirects.cache
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmCourse.resources
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmEmployeeType.resources
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmLoanAplication.resources
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmLogin.resources
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmMenu.resources
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.Properties.Resources.resources
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmStudent.resources
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmToolCatalog.resources
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto Final Cliente Servidor 2023.csproj.GenerateResource.cache
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto Final Cliente Servidor 2023.csproj.CoreCompileInputs.cache
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\bin\Debug\Proyecto Final Cliente Servidor 2023.exe.config
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\bin\Debug\Proyecto Final Cliente Servidor 2023.exe
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\bin\Debug\Proyecto Final Cliente Servidor 2023.pdb
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto Final Cliente Servidor 2023.exe
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto Final Cliente Servidor 2023.pdb
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmArea.resources
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmAreaAplication.resources
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmAreaType.resources
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmAuthorization.resources
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmBookCatalog.resources
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmBuilding.resources
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmCareer.resources
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmClass.resources
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmClassDetail.resources
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmEmployee.resources
+E:\Proyecto a Entregar Riojas\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmStudyPlan.resources
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\bin\Debug\Proyecto Final Cliente Servidor 2023.exe.config
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\bin\Debug\Proyecto Final Cliente Servidor 2023.exe
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\bin\Debug\Proyecto Final Cliente Servidor 2023.pdb
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto Final Cliente Servidor 2023.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto Final Cliente Servidor 2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmArea.resources
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmAreaAplication.resources
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmAreaType.resources
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmAuthorization.resources
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmBookCatalog.resources
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmBuilding.resources
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmCareer.resources
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmClass.resources
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmClassDetail.resources
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmCourse.resources
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmEmployee.resources
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmEmployeeType.resources
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmLoanAplication.resources
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmLogin.resources
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmMenu.resources
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.Properties.Resources.resources
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmStudent.resources
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmStudyPlan.resources
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto_Final_Cliente_Servidor_2023.FmToolCatalog.resources
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto Final Cliente Servidor 2023.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto Final Cliente Servidor 2023.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto Final Cliente Servidor 2023.exe
+C:\Users\USER\Desktop\Proyecto Final Cliente Servidor 2023\Proyecto Final Cliente Servidor 2023\obj\Debug\Proyecto Final Cliente Servidor 2023.pdb
